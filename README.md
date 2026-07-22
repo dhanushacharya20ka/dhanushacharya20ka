@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 3rd Year B.E. Student (CSE - Artificial Intelligence & Machine Learning)
+🎓 4th Year B.E. Student (CSE - Artificial Intelligence & Machine Learning)
 
 💻 Currently learning
 - Data Structures & Algorithms in C
@@ -133,7 +133,7 @@ Collection of C programs covering arrays, strings, linked lists, stacks, queues,
 
 ## 🤝 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: dhanush101jnvu@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/your-profile
 
