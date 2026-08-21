@@ -12,7 +12,7 @@
 🎓 4th Year B.E. Student (CSE - Artificial Intelligence & Machine Learning)
 
 💻 Currently learning
-- Data Structures & Algorithms in C
+- Data Structures & Algorithms in Python
 - Object-Oriented Programming
 - Operating Systems
 - Computer Networks
@@ -64,7 +64,7 @@
 
 ## 📚 Currently Working On
 
-- 📌 Mastering DSA in C
+- 📌 Mastering DSA in Python
 - 📌 Building AI/ML Projects
 - 📌 Improving Problem Solving
 - 📌 Preparing for Campus Placements
@@ -80,8 +80,8 @@ Machine Learning project using Linear Regression for predicting bike rental pric
 ### 📊 Student Service Portal
 Frontend project using HTML, CSS & JavaScript.
 
-### 💻 DSA in C
-Collection of C programs covering arrays, strings, linked lists, stacks, queues, trees and graphs.
+### 💻 DSA in Python
+Collection of python programs covering arrays, strings, linked lists, stacks, queues, trees and graphs.
 
 ---
 
